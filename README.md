@@ -8,7 +8,7 @@ Simple Currency converter with initial balance of 1000 EUR
 
 To install the application, download the APK file from the link below:
 
-[app-debug.apk](Download APK)
+[Download APK](app-debug.apk)
 
 ## Screenshots
 
